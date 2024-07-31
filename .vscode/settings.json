@@ -1,9 +1,31 @@
 {
-    "standard.options": {
-      "env" : ["jest"]
-    },
-    "cucumberautocomplete.syncfeatures": "tests/**/*.feature",
-    "cucumberautocomplete.steps": [
-      "tests/**/*.js"
-    ],
-  }
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#f6d4e2",
+    "activityBar.background": "#f6d4e2",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#559e21",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#f6d4e2",
+    "statusBar.background": "#eea9c6",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#e67eaa",
+    "statusBarItem.remoteBackground": "#eea9c6",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#eea9c6",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#eea9c699",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#EEA9C6",
+  "standard.options": {
+    "env": [
+      "jest"
+    ]
+  },
+  "cucumberautocomplete.syncfeatures": "tests/**/*.feature",
+  "cucumberautocomplete.steps": [
+    "tests/**/*.js"
+  ],
+}
