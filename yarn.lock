@@ -1199,8 +1199,8 @@ __metadata:
   linkType: hard
 
 "@testing-library/jest-dom@npm:^6.4.7":
-  version: 6.4.7
-  resolution: "@testing-library/jest-dom@npm:6.4.7"
+  version: 6.4.8
+  resolution: "@testing-library/jest-dom@npm:6.4.8"
   dependencies:
     "@adobe/css-tools": "npm:^4.4.0"
     "@babel/runtime": "npm:^7.9.2"
@@ -1210,24 +1210,7 @@ __metadata:
     dom-accessibility-api: "npm:^0.6.3"
     lodash: "npm:^4.17.21"
     redent: "npm:^3.0.0"
-  peerDependencies:
-    "@jest/globals": ">= 28"
-    "@types/bun": "*"
-    "@types/jest": ">= 28"
-    jest: ">= 28"
-    vitest: ">= 0.32"
-  peerDependenciesMeta:
-    "@jest/globals":
-      optional: true
-    "@types/bun":
-      optional: true
-    "@types/jest":
-      optional: true
-    jest:
-      optional: true
-    vitest:
-      optional: true
-  checksum: 10c0/e5b225d047c30291c5806a958c2ea67919c67756549c5b25424bacf3c766f1d535d1fe6ebd342da47e7297def13d829ffd515dd84d504ca86a822300ddcff91f
+  checksum: 10c0/8eececcac1ec7728c038b9d9eabfc8b8dcf4dc1e997c959450bff16d946e3344275862b84bfe0e1d1beb3817368e782464816aca47ab5c94f0ebf66db71df55d
   languageName: node
   linkType: hard
 
@@ -2492,9 +2475,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.820":
-  version: 1.4.833
-  resolution: "electron-to-chromium@npm:1.4.833"
-  checksum: 10c0/d1959253e0e29c988b8b69ea20620bfcf18522f27037e94e92c4974714b7f04e866839a8ff3b31332c9ac63ec56f495bd42cae282459b9ab11361520aa215546
+  version: 1.4.832
+  resolution: "electron-to-chromium@npm:1.4.832"
+  checksum: 10c0/40d427b513bdfdadaced02163d702a74fe8662cb8d696570fd641f5cef42f362180ea2b4259ab2f3aab30bca66748358f2b552d00ae7915f731ce27bf8052816
   languageName: node
   linkType: hard
 
@@ -3662,14 +3645,14 @@ __metadata:
   linkType: hard
 
 "import-local@npm:^3.0.2":
-  version: 3.2.0
-  resolution: "import-local@npm:3.2.0"
+  version: 3.1.0
+  resolution: "import-local@npm:3.1.0"
   dependencies:
     pkg-dir: "npm:^4.2.0"
     resolve-cwd: "npm:^3.0.0"
   bin:
     import-local-fixture: fixtures/cli.js
-  checksum: 10c0/94cd6367a672b7e0cb026970c85b76902d2710a64896fa6de93bd5c571dd03b228c5759308959de205083e3b1c61e799f019c9e36ee8e9c523b993e1057f0433
+  checksum: 10c0/c67ecea72f775fe8684ca3d057e54bdb2ae28c14bf261d2607c269c18ea0da7b730924c06262eca9aed4b8ab31e31d65bc60b50e7296c85908a56e2f7d41ecd2
   languageName: node
   linkType: hard
 
